@@ -1,0 +1,37 @@
+Build started at 2019-03-29T14:03:11.518148
+Main binary: /usr/bin/python
+Python system: Linux
+The Meson build system
+Version: 0.49.2
+Source dir: /home/khaled/Projects/C++/hello_world
+Build dir: /home/khaled/Projects/C++/hello_world/build-optimized
+Build type: native build
+Project name: cpractice
+Project version: undefined
+Sanity testing C++ compiler: clang++
+Is cross compiler: False.
+Sanity check compiler command line: clang++ /home/khaled/Projects/C++/hello_world/build-optimized/meson-private/sanitycheckcpp.cc -o /home/khaled/Projects/C++/hello_world/build-optimized/meson-private/sanitycheckcpp.exe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/khaled/Projects/C++/hello_world/build-optimized/meson-private/sanitycheckcpp.exe
+Native C++ compiler: clang++ (clang 7.0.1 "clang version 7.0.1 (tags/RELEASE_701/final)")
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Build targets in project: 2
+Found ninja-1.9.0 at /usr/bin/ninja
+Running compile:
+Working directory:  /tmp/tmpikdv2kyp
+Command line:  clang++ /tmp/tmpikdv2kyp/testfile.cpp -pipe -D_FILE_OFFSET_BITS=64 -c -o /tmp/tmpikdv2kyp/output.obj -O0 -fpermissive --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ programs: =/usr/bin:/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../x86_64-pc-linux-gnu/bin
+libraries: =/usr/lib/clang/7.0.1:/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/8.2.1:/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib64:/usr/bin/../lib64:/lib/../lib64:/usr/lib/../lib64:/usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/8.2.1/../../..:/usr/bin/../lib:/lib:/usr/lib
+
+Compiler stderr:
+ 

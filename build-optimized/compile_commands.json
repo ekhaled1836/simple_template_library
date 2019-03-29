@@ -1,0 +1,14 @@
+[
+  {
+    "directory": "/home/khaled/Projects/C++/hello_world/build-optimized",
+    "command": "clang++ -Isrc/25a6634@@bst@exe -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O2 -g  -MD -MQ 'src/25a6634@@bst@exe/BinarySearchTree.cpp.o' -MF 'src/25a6634@@bst@exe/BinarySearchTree.cpp.o.d' -o 'src/25a6634@@bst@exe/BinarySearchTree.cpp.o' -c ../src/BinarySearchTree.cpp",
+    "file": "../src/BinarySearchTree.cpp",
+    "output": "src/25a6634@@bst@exe/BinarySearchTree.cpp.o"
+  },
+  {
+    "directory": "/home/khaled/Projects/C++/hello_world/build-optimized",
+    "command": "clang++ -Isrc/25a6634@@graph@exe -Isrc -I../src -Xclang -fcolor-diagnostics -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O2 -g  -MD -MQ 'src/25a6634@@graph@exe/Graph.cpp.o' -MF 'src/25a6634@@graph@exe/Graph.cpp.o.d' -o 'src/25a6634@@graph@exe/Graph.cpp.o' -c ../src/Graph.cpp",
+    "file": "../src/Graph.cpp",
+    "output": "src/25a6634@@graph@exe/Graph.cpp.o"
+  }
+]
